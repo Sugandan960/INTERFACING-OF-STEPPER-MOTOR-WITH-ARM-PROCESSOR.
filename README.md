@@ -101,7 +101,7 @@ delay_ms(50);
 }
 }
 OUTPUT:
-WhatsApp Image 2025-11-06 at 16 11 46_a87c1500
+
 
 RESULT:
 Thus interfacing STEPPER MOTOR with ARM processor LPC1768 is verified.
