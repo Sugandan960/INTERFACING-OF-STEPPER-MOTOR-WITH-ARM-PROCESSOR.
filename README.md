@@ -47,6 +47,8 @@ ADD FILES: Target1: Source group1: Startuplpc17xx.s, main.c (t), delay.c (t), sy
 
 PIN DIAGRAM:
 
+![Uploading image.png…]()
+
 CIRCUIT DIAGRAM:
 
 PROGRAM:
