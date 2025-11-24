@@ -51,6 +51,8 @@ PIN DIAGRAM:
 
 
 CIRCUIT DIAGRAM:
+<img width="434" height="327" alt="image" src="https://github.com/user-attachments/assets/24086062-2740-40ef-9e00-04e19b10f2e2" />
+
 
 PROGRAM:
 #include<lpc17xx.h> #include "gpio.h" #define pin1 20
