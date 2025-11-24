@@ -1,4 +1,5 @@
 # INTERFACING-OF-STEPPER-MOTOR-WITH-ARM-PROCESSOR:
+INTERFACING-OF-STEPPER-MOTOR-WITH-ARM-PROCESSOR.
 AIM:
 To write an embedded c program to interface STEPPER MOTOR with ARM processor LPC1768.
 
@@ -45,9 +46,9 @@ PROCEDURE:
 ADD FILES: Target1: Source group1: Startuplpc17xx.s, main.c (t), delay.c (t), systemlpc17xx.c (t), gpio.c (t) Header: Delay.h, stdutils.h, gpioi.h
 
 PIN DIAGRAM:
-image
+
 CIRCUIT DIAGRAM:
-image
+
 PROGRAM:
 #include<lpc17xx.h> #include "gpio.h" #define pin1 20
 #define pin2 21
@@ -101,8 +102,6 @@ delay_ms(50);
 }
 }
 OUTPUT:
-![Uploading image.png…]()
-
 
 
 RESULT:
